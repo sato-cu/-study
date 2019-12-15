@@ -1,2 +1,2 @@
 # -study
- Study programming
+python 勉強用です。
